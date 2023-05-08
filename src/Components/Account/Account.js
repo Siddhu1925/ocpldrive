@@ -16,7 +16,7 @@ const Account = (props) => {
      <p style={{color:"white"}}>Reload to get your name</p>
      <button className='reload' onClick={handleReload}><ReplayIcon/></button>
       <h2 className='name-con'>Thanks for Registering </h2>
-      <h5 className='name-con'>now you can go to our home page</h5>
+      <h5 className='name-con'>now you can go back to your home page</h5>
       
       <div className='btns-bot'>
       <button className='home-btn'><a href='/' style={{textDecoration:"none"}}><HouseIcon/></a></button>
