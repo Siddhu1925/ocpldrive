@@ -19,13 +19,13 @@ function TopNavbar() {
             <p className="link"><HouseIcon style={{ color: "deeppink" }}/>Home</p>
           </a>
           <a href="/register">
-            <p className="link"><AppRegistrationIcon/>Register</p>
+            <p className="link"><AppRegistrationIcon style={{ color: "deeppink" }}/>Register</p>
           </a>
           <a href="/login">
-            <p className="link"><LoginIcon/>Login</p>
+            <p className="link"><LoginIcon style={{ color: "deeppink" }}/>Login</p>
             </a>
             <a href="/account">
-            <p className="link" ><AccountBoxIcon/>Account</p>
+            <p className="link" ><AccountBoxIcon style={{ color: "deeppink" }}/>Account</p>
             </a>
 
  
